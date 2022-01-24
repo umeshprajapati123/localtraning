@@ -1,0 +1,3 @@
+this is local application for testing
+emoji
+type option
